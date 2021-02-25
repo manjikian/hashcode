@@ -1,4 +1,4 @@
-# Hash Code 2021
+# [Hash Code 2021](https://goo.gle/hashcode-scoreboard)
 ## \#13 in Sweden  :trophy:
 ## \#869 world wide (top 10%)
 
