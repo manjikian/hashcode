@@ -26,5 +26,5 @@ def simulate(steps, cars, streets, bonus):
                                 result += bonus
                                 result += steps - i
                 else:
-                    car[1] -= 1;
+                    car[1] -= 1
     return result
