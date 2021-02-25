@@ -3,7 +3,8 @@
 ## \#869 world wide (top 10%)
 
 By:
-* Adnan Jamil
-* Hovig Manjikian
-* Fredrik Diffner
-* Niklas Wessman
+* [Adnan Jamil](https://github.com/adnanjam)
+* [Hovig Manjikian](https://github.com/manjikian)
+* [Fredrik Diffner](https://github.com/diffner)
+* [Niklas Wessman](https://github.com/nwessman)
+
