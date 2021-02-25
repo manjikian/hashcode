@@ -1,4 +1,4 @@
-# [Hash Code 2021 - Online qualifications :car:](https://goo.gle/hashcode-scoreboard)
+# [Hash Code 2021 - Online Qualifications :car:](https://goo.gle/hashcode-scoreboard)
 ## 
 ## \#13 in Sweden  :trophy:
 ## \#869 world wide (top 10%)
