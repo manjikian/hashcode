@@ -3,7 +3,7 @@
 ## \#869 world wide (top 10%)
 
 By:
-* Adnan Jamil,
-* Hovig Manjikian,
-* Fredrik Diffner,
+* Adnan Jamil
+* Hovig Manjikian
+* Fredrik Diffner
 * Niklas Wessman
